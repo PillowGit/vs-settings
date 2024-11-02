@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 2,
+    "editor.rulers": [
+        80
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "svelte.enable-ts-plugin": true,
+    "terminal.integrated.defaultLocation": "editor",
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "JetBrainsMono Nerd Font,Menlo, Monaco, 'Courier New', monospace",
+    "workbench.iconTheme": "symbols",
+    "vim.useSystemClipboard": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "codeium.enableCodeLens": false
+}
